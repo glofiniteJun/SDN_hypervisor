@@ -1,2 +1,1 @@
-# Libera-OVX
-OpenVirteX source code for Libera project
+Design of Rate Limiting feature on Network Hypervisor for Performance Isolation on multi-tenant SDN environment
